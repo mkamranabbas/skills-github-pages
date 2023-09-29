@@ -1,0 +1,16 @@
+/* Change the font family for all text */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+/* Customize heading styles */
+h1 {
+  font-size: 28px;
+  color: #FF5733;
+}
+
+/* Customize paragraph text */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
