@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Some articles are just so short that we have to make the footer stick"
+date:   2023-09-30 05:15:44 +0500
 categories: misc
 ---
 

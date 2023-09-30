@@ -1,0 +1,37 @@
+a, a:visited {
+    color: tomato;
+    text-decoration: none;
+  }
+ 
+a:hover{
+    color: rgb(250, 154, 137);
+    text-decoration: none;
+}  
+.site-header {
+    border-top: 5px solid #424242;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
+    background-color: tomato;
+  }
+
+  .site-header .page-link{
+    color: white;
+    font-weight: 600;
+  }
+
+  .site-header .page-link:hover{
+    color: rgba(202, 227, 225, 0.432);
+    text-decoration: none;
+  }
+
+  .post-list-heading{
+    text-align: center;
+    border-bottom: 1px solid tomato;
+  }
+  
+  .site-footer {
+    border-top: 1px solid #e8e8e8;
+    padding: 30px 0;
+    background-color: #e8e8e8;
+  }

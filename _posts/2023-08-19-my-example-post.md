@@ -1,5 +1,8 @@
 ---
 layout: post
+title: "Some we have to make the footer stick"
+date:   2023-09-30 05:15:44 +0500
+categories: misc
 ---
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. 
